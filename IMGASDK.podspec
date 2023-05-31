@@ -9,7 +9,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "IMGASDK"
-spec.version      = "0.9"
+spec.version      = "0.10"
   spec.summary      = "IMGA SDK"
   spec.description  = <<-DESC
   IMGA SDK for iOS is library for iOS providing a powerful high-level webview abstractions to interact with the IMGA web app. 
