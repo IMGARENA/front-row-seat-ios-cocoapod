@@ -4,18 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>BuildScript.sh</key>
-		<data>
-		dpyer/HF6yiBOvER6TCpZLqaqzk=
-		</data>
-		<key>BuildScript2.sh</key>
-		<data>
-		vmg+RtMpdfj0W+NJx0hy6uvuOtI=
-		</data>
-		<key>BuildScript3.sh</key>
-		<data>
-		jL6UfZ4+TA2MhuMI6vxiDQ38xtk=
-		</data>
 		<key>Headers/IMGA-Swift.h</key>
 		<data>
 		HqXiOLRLQhSVqBC9Rm7XohwRcnA=
@@ -26,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		0Ks0JHzboi/3x5H3NAgT+i0O4XY=
+		7HmnHya3LhuYb/xd478R292xpSY=
 		</data>
 		<key>Modules/IMGA.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -79,27 +67,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>BuildScript.sh</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LdrbkAHq6a33PSpbEF6s/NDBEPoSvRYr4Dx5VEFF4p0=
-			</data>
-		</dict>
-		<key>BuildScript2.sh</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			idehndQskO2K6saXDoW0gSknbnokb+nE3d/oV2EfVHY=
-			</data>
-		</dict>
-		<key>BuildScript3.sh</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LiM0p9+jwRAccJdfGA67FGJ7Dzskr9gtf51HACfUERo=
-			</data>
-		</dict>
 		<key>Headers/IMGA-Swift.h</key>
 		<dict>
 			<key>hash2</key>
