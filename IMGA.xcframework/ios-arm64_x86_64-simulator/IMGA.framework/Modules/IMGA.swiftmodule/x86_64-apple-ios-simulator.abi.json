@@ -199,9 +199,9 @@
             "moduleName": "IMGA",
             "isInternal": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "HasStorage",
+              "Custom",
               "AccessControl"
             ],
             "fixedbinaryorder": 0,
@@ -215,12 +215,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "IMGA.IMGAStatusDelegate?",
+                "printedName": "(any IMGA.IMGAStatusDelegate)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "IMGAStatusDelegate",
-                    "printedName": "IMGA.IMGAStatusDelegate",
+                    "printedName": "any IMGA.IMGAStatusDelegate",
                     "usr": "s:4IMGA18IMGAStatusDelegateP"
                   }
                 ],
@@ -233,9 +233,9 @@
             "moduleName": "IMGA",
             "isInternal": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "HasStorage",
+              "Custom",
               "AccessControl"
             ],
             "fixedbinaryorder": 1,
@@ -249,12 +249,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "IMGA.IMGAMessageDelegate?",
+                "printedName": "(any IMGA.IMGAMessageDelegate)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "IMGAMessageDelegate",
-                    "printedName": "IMGA.IMGAMessageDelegate",
+                    "printedName": "any IMGA.IMGAMessageDelegate",
                     "usr": "s:4IMGA19IMGAMessageDelegateP"
                   }
                 ],
@@ -267,9 +267,9 @@
             "moduleName": "IMGA",
             "isInternal": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "HasStorage",
+              "Custom",
               "AccessControl"
             ],
             "fixedbinaryorder": 2,
@@ -289,13 +289,13 @@
               {
                 "kind": "TypeNominal",
                 "name": "IMGAStatusDelegate",
-                "printedName": "IMGA.IMGAStatusDelegate",
+                "printedName": "any IMGA.IMGAStatusDelegate",
                 "usr": "s:4IMGA18IMGAStatusDelegateP"
               },
               {
                 "kind": "TypeNominal",
                 "name": "IMGAMessageDelegate",
-                "printedName": "IMGA.IMGAMessageDelegate",
+                "printedName": "any IMGA.IMGAMessageDelegate",
                 "usr": "s:4IMGA19IMGAMessageDelegateP"
               }
             ],
@@ -629,6 +629,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "__DefaultCustomPlaygroundQuickLookable",
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
@@ -676,12 +683,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "IMGA.IMGAStatusDelegate?",
+                "printedName": "(any IMGA.IMGAStatusDelegate)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "IMGAStatusDelegate",
-                    "printedName": "IMGA.IMGAStatusDelegate",
+                    "printedName": "any IMGA.IMGAStatusDelegate",
                     "usr": "s:4IMGA18IMGAStatusDelegateP"
                   }
                 ],
@@ -694,9 +701,9 @@
             "moduleName": "IMGA",
             "isInternal": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "HasStorage",
+              "Custom",
               "AccessControl"
             ],
             "fixedbinaryorder": 0,
@@ -710,12 +717,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "IMGA.IMGAMessageDelegate?",
+                "printedName": "(any IMGA.IMGAMessageDelegate)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "IMGAMessageDelegate",
-                    "printedName": "IMGA.IMGAMessageDelegate",
+                    "printedName": "any IMGA.IMGAMessageDelegate",
                     "usr": "s:4IMGA19IMGAMessageDelegateP"
                   }
                 ],
@@ -728,9 +735,9 @@
             "moduleName": "IMGA",
             "isInternal": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "HasStorage",
+              "Custom",
               "AccessControl"
             ],
             "fixedbinaryorder": 1,
@@ -775,9 +782,9 @@
             "moduleName": "IMGA",
             "isInternal": true,
             "declAttributes": [
-              "Custom",
               "HasInitialValue",
               "HasStorage",
+              "Custom",
               "AccessControl"
             ],
             "fixedbinaryorder": 2,
@@ -824,12 +831,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "IMGA.IMGAStatusDelegate?",
+                "printedName": "(any IMGA.IMGAStatusDelegate)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "IMGAStatusDelegate",
-                    "printedName": "IMGA.IMGAStatusDelegate",
+                    "printedName": "any IMGA.IMGAStatusDelegate",
                     "usr": "s:4IMGA18IMGAStatusDelegateP"
                   }
                 ],
@@ -838,12 +845,12 @@
               {
                 "kind": "TypeNominal",
                 "name": "Optional",
-                "printedName": "IMGA.IMGAMessageDelegate?",
+                "printedName": "(any IMGA.IMGAMessageDelegate)?",
                 "children": [
                   {
                     "kind": "TypeNominal",
                     "name": "IMGAMessageDelegate",
-                    "printedName": "IMGA.IMGAMessageDelegate",
+                    "printedName": "any IMGA.IMGAMessageDelegate",
                     "usr": "s:4IMGA19IMGAMessageDelegateP"
                   }
                 ],
@@ -1030,7 +1037,7 @@
               {
                 "kind": "TypeNominal",
                 "name": "Error",
-                "printedName": "Swift.Error",
+                "printedName": "any Swift.Error",
                 "usr": "s:s5ErrorP"
               }
             ],
@@ -1486,6 +1493,13 @@
             "printedName": "CustomDebugStringConvertible",
             "usr": "s:s28CustomDebugStringConvertibleP",
             "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
           },
           {
             "kind": "Conformance",
@@ -5753,6 +5767,13 @@
           },
           {
             "kind": "Conformance",
+            "name": "UITraitChangeObservable",
+            "printedName": "UITraitChangeObservable",
+            "usr": "s:5UIKit23UITraitChangeObservableP",
+            "mangledName": "$s5UIKit23UITraitChangeObservableP"
+          },
+          {
+            "kind": "Conformance",
             "name": "__DefaultCustomPlaygroundQuickLookable",
             "printedName": "__DefaultCustomPlaygroundQuickLookable",
             "usr": "s:s38__DefaultCustomPlaygroundQuickLookableP",
@@ -5863,6 +5884,7 @@
         "mangledName": "$sSS",
         "moduleName": "Swift",
         "declAttributes": [
+          "EagerMove",
           "Frozen"
         ],
         "isExternal": true,
